@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BewerberTest</string>
+    <string name="button">Berechnung starten</string>
+    <string name="checkbox">Mache aufwendige Berechnung</string>
+    <string name="begin">Berechnung hat begonnen</string>
+    <string name="end">Berechnung ist fertig</string>
+    <string name="calc_result">Berechnungsergebnis</string>
+    <string name="notification_title">Berechnung beendet</string>
+    <string name="notification_content">Hier berühren, um Ergebnis zu sehen</string>
+</resources>
